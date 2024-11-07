@@ -10,7 +10,7 @@ export default {
   data() {
     return {
       title: "这是标题title属性的内容",
-      description: "这是对应的description属性 "
+      description: "这是对应的description属性"
     }
   }
   ,
