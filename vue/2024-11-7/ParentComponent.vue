@@ -1,6 +1,6 @@
 <template>
   <div>
-     <ChildComponent :title="title" :description="description" />
+     <ChildComponent :title="title" :description="description"/>
   </div>
 </template>
 
