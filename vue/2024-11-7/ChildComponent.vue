@@ -19,7 +19,7 @@ export default {
 //       required: true
 //     }
 //   }
-// 方法二
+// 方法二：
   props: ['title', 'description']
 }
 </script>
